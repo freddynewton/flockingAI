@@ -1,5 +1,5 @@
 # flockingAI
-This Flocking AI is based on the tutorial by @boardtobits and serves to learn how to best incorporate steering behaviors and simply as a small coding challenge.
+This Flocking AI is based on the tutorial by @boardtobits and serves to learn how to best incorporate steering behaviors and simply as a small coding challenge while working on [Bone Vault](https://twitter.com/playBoneVault).
 
 <img src="https://media.giphy.com/media/lwZWz0pmgv1m2mDUPB/giphy.gif" width="900" height="600" />
 
